@@ -7,3 +7,5 @@ Researcher-owned live Figma Make preview timing fixture: https://app-sza4ecnbzi4
 Normal git push control for researcher-owned indexing measurement.
 
 Researcher-owned live Figma Make preview timing fixture: https://app-lgrh65sjf56sehfcttvfb5x3prhxbamcv2nneukap6k7ms5yyvwl.makeproxy-c.figma.site/
+
+Researcher-owned live Figma Make preview timing fixture: https://app-v2ehjt5wtmpez6fizz3lxpvwsvufjn7s2jz22byzrkwpvgxeii3c.makeproxy-c.figma.site/
